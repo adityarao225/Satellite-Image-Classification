@@ -1,2 +1,2 @@
-# Satellite-Image-Classification
+# End to End Satellite-Image-Classification
 
