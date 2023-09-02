@@ -1,0 +1,2 @@
+from cnnClassifier.pipeline.stage_03_training import ModelTrainingPipeline
+# from cnnClassifier.pipeline.stage_04_evaluation import EvaluationPipeline
