@@ -1,4 +1,5 @@
 torch
+tensorflow
 pandas 
 dvc
 notebook
